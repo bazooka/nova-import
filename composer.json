@@ -1,5 +1,5 @@
 {
-    "name": "softly/nova-import",
+    "name": "bazooka/nova-import",
     "description": "A Laravel Nova import tool.",
     "keywords": [
         "laravel",
